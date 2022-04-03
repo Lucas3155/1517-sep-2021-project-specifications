@@ -1,8 +1,8 @@
 # StarTED Project
 
-> **YOUR_NAME**
+> **Yi-Wen Tsai**
 >
-> **YOUR_SCENARIO** - *Include a link to the appropriate markdown (.md) document.
+> **A02** - *Include a link to the appropriate markdown (.md) document.
 
 Modify this ReadMe document with your name and scenario as indicated. Follow the [specifications](./Specs/ReadMe.md) given in this starter kit. Any updates to the specifications, including due dates, will be posted to this repository by your instructor.
 
